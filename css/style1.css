@@ -1,0 +1,18 @@
+    p.intro{
+   color: #110B63;
+   font-size: 25px;
+}    
+
+p.discipline{
+   color: #0F53DC;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+
+body{
+	background-color: ##C9C4C4;
+}
+h1.headline{
+	font-size: 50px;
+} 
